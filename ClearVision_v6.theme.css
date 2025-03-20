@@ -1,8 +1,8 @@
 /**
- * @name ClearVision
- * @author ClearVision Team
+ * @name billiecord
+ * @author tokyo 
  * @version 6.9.0
- * @description Highly customizable theme for BetterDiscord.
+ * @description a dc theme thts abt the most fine mf alive
  * @source https://github.com/ClearVision/ClearVision-v6
  * @website https://clearvision.github.io
  * @invite dHaSxn3
@@ -42,7 +42,7 @@
   /* APP BACKGROUND */
   --background-shading: 100%; /* app background shading (0 for complete smoothness) [default: 100%] */
   --background-overlay: rgba(0, 0, 0, 0.6); /* app background overlay color/gradient [default: rgba(0, 0, 0, 0.6)] */
-  --background-image: url(https://clearvision.github.io/images/sapphire.jpg); /* app background image (link must be HTTPS) [default: url(https://clearvision.github.io/images/sapphire.jpg)]*/
+  --background-image: url(https://images.wallpapersden.com/image/download/billie-eilish-grammy-2020_bGdnameUmZqaraWkpJRnZWltrWZqaGo.jpg); /* app background image (link must be HTTPS) [default: url(https://images.wallpapersden.com/image/download/billie-eilish-grammy-2020_bGdnameUmZqaraWkpJRnZWltrWZqaGo.jpg)]*/
   --background-position: center; /* app background position [default: center] */
   --background-size: cover; /* app background size [default: cover] */
   --background-repeat: no-repeat; /* app background repeat [default: no-repeat] */
